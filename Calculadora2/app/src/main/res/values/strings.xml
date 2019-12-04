@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora 2.0</string>
+    <string name="soma">Soma</string>
+    <string name="sub">Subtração</string>
+    <string name="multi">Multiplicação</string>
+    <string name="div">Divisão</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CadastroSimples</string>
+    <string name="name">Nome:</string>
+    <string name="cel">Celular:</string>
+    <string name="mail">E-mail:</string>
+</resources>
